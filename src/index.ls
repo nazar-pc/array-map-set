@@ -131,4 +131,4 @@ else if typeof exports == 'object'
 	module.exports = Wrapper()
 else
 	# Browser globals
-	@'detox_utils' = Wrapper()
+	@'array_map_set' = Wrapper()

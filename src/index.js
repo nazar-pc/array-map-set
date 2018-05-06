@@ -161,6 +161,6 @@
   } else if (typeof exports === 'object') {
     module.exports = Wrapper();
   } else {
-    this['detox_utils'] = Wrapper();
+    this['array_map_set'] = Wrapper();
   }
 }).call(this);
