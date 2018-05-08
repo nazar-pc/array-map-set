@@ -7,12 +7,12 @@
 		"arraymap",
 		"arrayset"
 	],
-	"version"         : "1.0.1",
-	"homepage"        : "https://github.com/Detox/utils",
+	"version"         : "1.0.2",
+	"homepage"        : "https://github.com/nazar-pc/array-map-set",
 	"author"          : "Nazar Mokrynskyi <nazar@mokrynskyi.com>",
 	"repository"      : {
 		"type" : "git",
-		"url"  : "git://github.com/Detox/utils.git"
+		"url"  : "git://github.com/nazar-pc/array-map-set.git"
 	},
 	"license"         : "0BSD",
 	"main"            : "src/index.js",
