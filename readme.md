@@ -29,10 +29,10 @@ requirejs(['array-map-set'], function (array_map_set) {
 
 ## API
 ### array_map_set.ArrayMap(array : Array) : Map
-The same constructor as plain `Map`, returns `Map` object.
+Similar to plain `Map` (only accepts arrays as argument though), returns `Map` object.
 
 ### array_map_set.ArraySet(array : Array) : Set
-The same constructor as plain `Set`, returns `Set` object.
+Similar to plain `Set` (only accepts arrays as argument though), returns `Set` object.
 
 ## Contribution
 Feel free to create issues and send pull requests (for big changes create an issue first and link it from the PR), they are highly appreciated!
