@@ -67,7 +67,7 @@
     }
   }
   /**
-   * This is a Map with very interesting property: different arrays with the same contents will be treated as the same array
+   * This is a Map with very interesting property: different ArrayBufferViews with the same contents will be treated as the same ArrayBufferView
    *
    * Implementation keeps weak references to make the whole thing fast and efficient
    */
@@ -111,7 +111,7 @@
     return map;
   }
   /**
-   * This is a Set with very interesting property: different arrays with the same contents will be treated as the same array
+   * This is a Set with very interesting property: different ArrayBufferViews with the same contents will be treated as the same ArrayBufferView
    *
    * Implementation keeps weak references to make the whole thing fast and efficient
    */
