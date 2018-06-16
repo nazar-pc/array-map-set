@@ -7,7 +7,7 @@
 		"arraymap",
 		"arrayset"
 	],
-	"version"         : "1.0.2",
+	"version"         : "1.0.3",
 	"homepage"        : "https://github.com/nazar-pc/array-map-set",
 	"author"          : "Nazar Mokrynskyi <nazar@mokrynskyi.com>",
 	"repository"      : {
@@ -23,7 +23,7 @@
 		"test" : "tape tests/**/*.js"
 	},
 	"devDependencies" : {
-		"build-gc" : "^0.1.1",
-		"tape"     : "^4.8.0"
+		"build-gc" : "^0.2.0",
+		"tape"     : "^4.9.1"
 	}
 }
